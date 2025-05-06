@@ -40,9 +40,7 @@ The mentioned weights are trained for 20 epochs using Nvidia L4 GPU on google co
 
 ## Results
 
-Our model achieves the following performance on :
-
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+Our model achieves the following performance
 
 | Class                            | Status | AUROC |
 | -------------------------------- | ------ | ----- |
